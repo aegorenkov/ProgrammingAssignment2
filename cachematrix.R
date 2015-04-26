@@ -1,5 +1,5 @@
 ## The function below creates a special matrix object that can cache the inverse matrix
-## that function works in tandem with the cacheSolve function which sets the matrix inverse
+## that function works in tandem with the cacheSolve function which sets the matrix inverse.
 
 ## This function creates a special "matrix" object
 ## that can cache its inverse.
